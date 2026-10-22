@@ -1,6 +1,5 @@
-<h1 align="center">CoinGO 🪙</h1>
 <div align="center">
-  <img src="Parte Inicial.png" alt="CoinGO: Sua vida financeira evolui um nível de cada vez." />
+  <img src="src/Parte%20Inicial.png" alt="CoinGO: Sua vida financeira evolui um nível de cada vez." />
 </div>
 <p align="center"><i>Sua vida financeira evolui um nível de cada vez.</i></p>
 
