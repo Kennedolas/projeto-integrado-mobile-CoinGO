@@ -4,12 +4,14 @@
 <p align="center"><i>Sua vida financeira evolui um nível de cada vez.</i></p>
 
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/Kennedolas/SmartPaws)](https://github.com/Kennedolas/SmartPaws/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/Kennedolas/SmartPaws)](https://github.com/Kennedolas/SmartPaws/commits)
+[![Issues](https://img.shields.io/github/issues/Kennedolas/projeto-integrado-mobile-CoinGO)](https://github.com/Kennedolas/projeto-integrado-mobile-CoinGO/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/Kennedolas/projeto-integrado-mobile-CoinGO)](https://github.com/Kennedolas/projeto-integrado-mobile-CoinGO/commits)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)]()
-[![Figma](https://img.shields.io/badge/Figma-%2300C1F4?style=flat&logo=figma&logoColor=white)](https://www.figma.com/proto/4IJIlsc2hRUAVpvrSk72Q7/New-SmartPaws?node-id=1-70&p=f&t=hjQA8vS6kuVE2vUI-0&scaling=contain&content-scaling=fixed&page-id=0%3A1)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)]()
+[![Figma](https://img.shields.io/badge/Figma-%2300C1F4?style=flat&logo=figma&logoColor=white)]()
 
 ## Sumário
 - [Sobre o projeto](#sobre-o-projeto)
