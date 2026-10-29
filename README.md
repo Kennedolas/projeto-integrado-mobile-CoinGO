@@ -42,12 +42,25 @@ No CoinGO, acreditamos que a educação financeira deve ser acessível e motivad
 - 📱 Foco em uma experiência nativa *mobile*, acompanhando a tendência de 78% das transações bancárias serem feitas pelo celular.
 - 💞 Conexão entre organização (freemium) e relatórios avançados (premium) para quem quer levar as finanças para o próximo nível.
 
-## Tecnologias e Programas que serão utilizadas
-- **Design:** Figma
-- **Front-end / Mobile:** React Native / Flutter *(Ajustar conforme o projeto)*
-- **Back-end:** Node.js / Python *(Ajustar conforme o projeto)*
-- **Banco de Dados:** PostgreSQL / Firebase *(Ajustar conforme o projeto)*
-- **Gestão:** Trello / Jira
+### Tecnologias e Programas que serão utilizadas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="60" height="60" title="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60" title="SQLite" />
+</p>
+
+### 💡 A Importância do Projeto
+
+O desenvolvimento do **CoinGO** vai muito além de um requisito acadêmico de Engenharia de Software 🎓. Em um cenário onde grande parte da população enfrenta desafios com o endividamento 📉 e a falta de educação financeira básica, criar uma ferramenta tecnológica que seja acessível, intuitiva e engajadora é fundamental 🚀.
+
+Tradicionalmente, o controle financeiro é visto como uma tarefa tediosa 🥱, o que leva ao alto índice de abandono de planilhas e aplicativos convencionais 🗑️. Ao unir a gestão de despesas com mecânicas de **gamificação** 🎮, o CoinGO busca quebrar essa barreira da desmotivação ✨.
+
+O projeto tem o potencial de impactar positivamente a vida dos usuários 🌟, transformando o registro de gastos em uma jornada de evolução pessoal 🌱. Dessa forma, o aplicativo não apenas ajuda no controle do patrimônio 💰, mas também educa 📚 e incentiva a criação de hábitos financeiros saudáveis e duradouros direto na palma da mão 📱..
 
 ## Layout do Projeto
 
