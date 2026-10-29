@@ -81,7 +81,7 @@ O projeto tem o potencial de impactar positivamente a vida dos usuários 🌟, t
 ### Equipe
 O CoinGO foi desenvolvido por um time focado em Inovação, Gestão e Desenvolvimento:
 - **Thiago** 0022639 (Gerente de Projeto)
-- **Alysson** (Desenvolvimento)
-- **Davi** (Desenvolvimento)
+- **Alysson** 0022842 (Desenvolvimento)
+- **Davi** 0023200 (Desenvolvimento)
 - **Felipe** 0022518 (Desenvolvimento)
 - **Samuel** 0022779 (Desenvolvimento)
