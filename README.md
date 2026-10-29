@@ -3,6 +3,14 @@
 </div>
 <p align="center"><i>Sua vida financeira evolui um nível de cada vez.</i></p>
 
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/Kennedolas/SmartPaws)](https://github.com/Kennedolas/SmartPaws/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/Kennedolas/SmartPaws)](https://github.com/Kennedolas/SmartPaws/commits)
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)]()
+[![Figma](https://img.shields.io/badge/Figma-%2300C1F4?style=flat&logo=figma&logoColor=white)](https://www.figma.com/proto/4IJIlsc2hRUAVpvrSk72Q7/New-SmartPaws?node-id=1-70&p=f&t=hjQA8vS6kuVE2vUI-0&scaling=contain&content-scaling=fixed&page-id=0%3A1)
+
 ## Sumário
 - [Sobre o projeto](#sobre-o-projeto)
 - [Objetivo do Projeto](#objetivo-do-projeto)
